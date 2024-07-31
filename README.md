@@ -49,3 +49,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Necessary Updations
+- Edit the files named admin_passwd.txt, apartmentdetails.csv, OwnerData.csv, user_passwd.tt as per your needs.
