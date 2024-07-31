@@ -50,4 +50,4 @@ pip install -r requirements.txt
 ```
 
 ## Necessary Updations
-- Edit the files named admin_passwd.txt, apartmentdetails.csv, OwnerData.csv, user_passwd.tt as per your needs.
+- Edit the files named admin_passwd.txt, apartmentdetails.csv, OwnerData.csv, user_passwd.txt as per your needs.
